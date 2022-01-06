@@ -1,6 +1,1 @@
-git add hello_world.txt
-git commit -m "rounded up chapter 1"
-git push origin master 
-
-explanation line
-rtygu
+hello_world.txt
